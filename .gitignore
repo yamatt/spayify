@@ -1,0 +1,7 @@
+*.pyc
+*~
+*.ignore
+*.db
+node_modules/*
+env/*
+*.egg*
